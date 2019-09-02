@@ -1,7 +1,9 @@
 # #60daysofUdacity
 This is #60daysofUdacity initiative from Secure and Private AI by #UdacityFacebookScholar
 <hr />
+Starting 1 to 11 days progress is lost due to slark support is down the time.
 
+<hr />
 Day 12:
 08/09/19 - 09:41pm
 - revised previous lessons, clear the doubts. Has more clear approach now.
@@ -49,6 +51,7 @@ Day 17:
 
 Day 18:
 14/07/19 - 09:49pm
+
 :heavy_check_mark: brushed up some previous concepts
 :heavy_check_mark: worked mostly with @Shahana @Labiba on the *Hackathon Blossom* at #sg_hackathon-orgnizrs 
 :heavy_check_mark:  it was a tough day had to code hard, but though due to my :awesome-ball:  teammates it was quite interesting:crazyfastparrot: 
@@ -59,6 +62,7 @@ Day 18:
 
 Day 19:
 15/07/19 - 09:55pm
+
 :heavy_check_mark: attended the webinar conducted *Robert Warner*, he makes the understanding towards different privacy more easier
 :heavy_check_mark: contd. working on Hackathon Blossom by #sg_hackathon-orgnizrs with my :awesome-ball: team @Labiba @Shahana 
 :heavy_check_mark: read some blogs on differential privacy
@@ -67,6 +71,7 @@ Day 19:
 
 Day 20:
 16/07/19 - 10:33pm
+
 :heavy_check_mark: Completed the project *Hackathon Blossom* from #sg_hackathon-orgnizrs , worked mostly with my team @Labiba @Shahana 
 :heavy_check_mark: discussed with @Vigneshwari  to start a project on Fruit360 project https://www.kaggle.com/moltean/fruits
 :heavy_check_mark: discussed for a physical meetup with @Arkadip Bhattacharya @Biswajit Banerjee 
@@ -78,6 +83,7 @@ A big shout out to: @Arkadip Bhattacharya @Shahana @Vigneshwari @Labiba @Biswaji
 
 Day 21:
 17/07/19 - 11:30pm
+
 :arrow_right: brushing up my numpy and pandas concepts
 :arrow_right: solved some competitive coding questions on python:python: 
 
@@ -89,6 +95,7 @@ Kudos to: @Arkadip Bhattacharya @Aisha Javed @Shahana @Labiba @Vigneshwari @Deba
 
 Day 22:
 19/07/19 - 12:10am
+
 :heavy_check_mark: day 2 of my brushing up of numpy and pandas concepts
 :heavy_check_mark: took some little initiatives to start a group project with @risper bevalyn @Vigneshwari
 :heavy_check_mark: have done our second weekly meetup with @Debankur @Md. Mahedi Hasan Riday @Jeet @Ankita Prakash @crazylazylife  for #sg_kolkata, where we discussed some interesting ideas to work upon.
@@ -104,6 +111,7 @@ Day 23:
 
 Day 24: 
 20/07/19 - 11:25pm
+
 :arrow_right: worked this day completely on the car classification, a hackathon hosted by #sg_hackathon-orgnizrs with my team @Shahana @Labiba @Joy Poddar 
 @Palak.Udacity 
 #60daysofudacity
@@ -118,6 +126,7 @@ Day 25:
 
 Day 26:
 22/07/19 - 11:04pm
+
 :arrow_right: finally finished with the car classification project, hosted by #sg_hackathon-orgnizrs with my teammates @Labiba @Shahana @Joy Poddar 
 Learned a lot from this one, will try to finish it with good accuracy:bunny-stars: 
 :arrow_right: contributed in slack, actively participating in channel initiatives
@@ -127,6 +136,7 @@ Learned a lot from this one, will try to finish it with good accuracy:bunny-star
 
 Day 27:
 23/07/19 - 10:38pm
+
 :arrow_right: practiced competitive coding with python:python: 
 :arrow_right: worked on resolving dependencies to deploy the PyTorch models
 @Palak.Udacity 
@@ -141,6 +151,7 @@ Day 28:
 
 Day 29:
 25/07/19 - 11:49pm
+
 :heavy_check_mark: started Python for data science course, on the verge of completing it.
 :heavy_check_mark: got 2nd runner-up in Car Classification held by #sg_hackathon-orgnizrs with my team @Shahana @Labiba @Joy Poddar
 :heavy_check_mark: attended the weekly meetup held at #sg_kolkata with @Debankur @Biswajit Banerjee @iArunava @Oudarjya Sen Sarma @Md. Mahedi Hasan Riday @Syaamantak Das
@@ -152,6 +163,7 @@ Big shouts to @Shahana @Khush @Venkata Rathnam Muralidharan @risper bevalyn @Deb
 
 Day 30:
 26/07/19 - 10:39pm
+
 :heavy_check_mark: revised CNN and transfer learning
 :heavy_check_mark: participated in slack initiaves
 
@@ -163,6 +175,7 @@ Tagging: @Debankur @Vigneshwari @Labiba @Joy Poddar @Shahana @risper bevalyn @Ar
 
 Day 31:
 27/07/19 - 11:21pm
+
 :arrow_right: back on track, started revising differential privacy lesson 2, 3
 :arrow_right: worked mostly on the deployment process
 @Palak.Udacity 
@@ -210,6 +223,7 @@ Sending encouragements to: @Vigneshwari @risper bevalyn @Biswajit Banerjee @Deba
 
 Day 36:
 01/08/19 - 11:47pm
+
 :heavy_check_mark: Today I completed my Lesson 6 i.e., Differential Privacy using deep learning
 :heavy_check_mark: Received my tier 2 swag by Google Assistant team, i.e., A Google Home
 :heavy_check_mark: Had an amazing meetup with #sg_kolkata with @Debankur @Oudarjya Sen Sarma @Biswajit Banerjee @Md. Mahedi Hasan Riday @Shudipto Trafder @Akash Kumar. Discussed and decided to work on a project.
@@ -242,6 +256,7 @@ Tagging all my great buddies :- @Shahana @Labiba @Joy Poddar @Debankur @Vigneshw
 
 Day 39:
 05/08/19 - 12:14am
+
 :heavy_check_mark: attended GDG DevFest'19 Kolkata. Witnessed a large group of enthusiasts among the aspiring developers to professional developers. Met with @Arkadip Bhattacharya and @Ankita Prakash 
 :heavy_check_mark: attended a seminar on `Minimizing CPU utilization for deep networks` by Akash Bahadur
 :heavy_check_mark: attended another seminar on `Dark Sky Mysteries With ML` by Dikshita Desai.
@@ -253,6 +268,7 @@ Tagging great and inspiring one are :- @Biswajit Banerjee @Debankur @risper beva
 
 Day 40:
 05/08/19 - 11:51pm
+
 :heavy_check_mark: rewatched videos and clear some concepts on lesson 6
 @Palak.Udacity 
 #60daysofudacity
@@ -260,6 +276,7 @@ Day 40:
 
 Day 41:
 06/08/19 - 10:20pm
+
 :heavy_check_mark: revised lesson 3 and 4
 :heavy_check_mark: readed some good blogs on differential privacy
 @Palak.Udacity 
@@ -287,6 +304,7 @@ Day 43:
 
 Day 44:
 09/08/19 - 10:58pm
+
 :arrow_right: went back on revising the previous lessons and this time I'm able to understand all the concepts showed in the lessons.:torch_hand_1: 
 :arrow_right: did 2 hrs of competitive coding with python:python: 
 
@@ -297,6 +315,7 @@ Sending encouragement to all great buddies: @Shahana @risper bevalyn @Vigneshwar
 
 Day 45:
 10/08/19 - 11:34pm
+
 :arrow_right: move towards the local and global differential privacy. I know I'm a bit slow, but now I'm able to relate all the concepts told by `Andrew Trask`, and having more clear grasp of the concepts:smiley: 
 :arrow_right: did 2 hrs of competitive coding with python:python: 
 P.S. it was a busy weekend for me although but managed:pizzaspin:
@@ -309,6 +328,7 @@ Sending the encouragements:
 
 Day 46:
 11/08/19 - 11:33pm
+
 :white_check_mark: completed local and global differential privacy
 :white_check_mark: readed this blog, it helped me much “Local Vs Global Differential Privacy” by Nana Aba Turkson https://link.medium.com/92iMaOIv4Y
 
@@ -330,6 +350,7 @@ Day 47:
 
 Day 48:
 13/08/19 - 11:15pm
+
 :heavy_check_mark: completed ` differential privacy with deep learning`
 :heavy_check_mark: watched this awesome Guest interview on Privacy and Society by OpenAI
 @Palak.Udacity 
@@ -338,6 +359,7 @@ Day 48:
 
 Day 49:
 14/08/19 - 10:05pm
+
 :heavy_check_mark: completed introduction to federated learning
 :arrow_right: readed relevant blogs and tutorials which made it easy and super interesting for me:smile: 
 :heavy_check_mark: finalized our group project with #sg_aimlpros team
@@ -350,6 +372,7 @@ Sending encouragement to my great buddies:
 
 Day 50:
 16/08/19 - 10:42pm
+
 :heavy_check_mark: Revised and Completed lesson 7 i.e., Federated Learning
 :heavy_check_mark: Watched Guest Interview on Federated Learning by Brenden McMahan
 :heavy_check_mark: Watched Talking PyTorch and Careers in AI: Soumith Chintala and Mat Leonard
@@ -374,6 +397,7 @@ Sending encouragement to my great buddies:
 
 Day 52:
 18/08/19 - 11:00pm
+
 :heavy_check_mark: completed lesson 8 and started encrypted federated learning:sweat_smile: 
 :heavy_check_mark: gone through some interesting blogs on deep learning
 :heavy_check_mark: discussed some key points for our project showcase with team #sg_aimlpros
@@ -385,6 +409,7 @@ Sending encouragement to my great buddies:
 
 Day 53:
 20/08/19 - 12:06am
+
 :heavy_check_mark: Finally completed my course lessons:ultra_fast_parrot::relieved:
 :heavy_check_mark: working on project showcase with team #sg_aimlpros @Vigneshwari @risper bevalyn @Shudipto Trafder @LauraT @Ellyana Linden
 :heavy_check_mark: had a great discussion on project showcase with #sg_kolkata @Oudarjya Sen Sarma @Debankur @Shudipto Trafder @Biswajit Banerjee @Mahedi
@@ -397,6 +422,7 @@ Sending encouragement to my great buddies:
 
 Day 54:
 21/08/19 - 12:20am
+
 :heavy_check_mark: participated in group project with team #sg_aimlpros @Vigneshwari @Shudipto Trafder @risper bevalyn @LauraT @Ellyana Linden @Anna Scott 
 :heavy_check_mark: did some model fine tuning
 :heavy_check_mark: revised lesson 2 i.e., deeplearning with PyTorch
@@ -409,6 +435,7 @@ Sending encouragement to my great buddies:
 
 Day 55:
 21/07/19 - 11:37pm
+
 :heavy_check_mark: revised transfer learning from Intro to deep learning with PyTorch
 :heavy_check_mark: practiced competitive programming with python
 Sending encouragement to my great buddies:
@@ -419,6 +446,7 @@ Sending encouragement to my great buddies:
 
 Day 56:
 22/08/19 - 11:55pm
+
 :heavy_check_mark: revised local and differential privacy
 :heavy_check_mark: readed some interesting blog on deep learning 
 :heavy_check_mark: revised manipulation with pandas
@@ -431,6 +459,7 @@ Sending encouragement to my great buddies:
 
 Day 57:
 24/08/19 - 12:40am
+
 :heavy_check_mark:  revised fixing Additive Secret Sharing on Securing federated learning
 :heavy_check_mark:  revised formal definition of Differential Privacy
 :heavy_check_mark:  for last two days maintained my strike on slack, readed every message
@@ -442,6 +471,7 @@ Sending encouragement to my great buddies:
 
 Day 58:
 25/08/19 - 12:12am
+
 :heavy_check_mark:  revised building an encrypted database using Encrypted Deep Learning
 :heavy_check_mark:  watched deployment of PyTorch
 :heavy_check_mark:  watched an interesting video by 3blue1brown on Backpropagation : https://www.youtube.com/watch?v=tIeHLnjs5U8
@@ -453,6 +483,7 @@ Sending encouragement to my great buddies:
 
 Day 59:
 25/08/19 - 11:44pm
+
 :heavy_check_mark:  continued revising encrypted federated learning
 :heavy_check_mark:  revised and solved many problems on data structures and algorithms
 Sending encouragement to my great buddies:
@@ -463,6 +494,7 @@ Sending encouragement to my great buddies:
 
 Day 60:
 26/08/19 - 09:52pm
+
 Yay!! Finally I completed the #60daysofudacity challenge:60daysofudacitybadge:
 :heavy_check_mark: revised Recurrent Neural Networks
 :heavy_check_mark: continued my work on data structures and algorithms in python :python:
