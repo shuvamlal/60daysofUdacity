@@ -427,3 +427,48 @@ Sending encouragement to my great buddies:
 @Shahana @Vigneshwari @risper bevalyn @Mahedi  @Labiba @Biswajit Banerjee @Joy Poddar @Oudarjya Sen Sarma  @Debankur @Shudipto Trafder @Shudipto Trafder   @Frida @Abhishek Lalwani @LauraT @Sourav @Akshay Rajmohan @Sankalp Dayal @Aisha Javed @sourav kumar @Sourav @Ishan Arora @Nirupama Singh @Nirupama Singh  @Khush @Aisha Khatun @iso.
 @Palak.Udacity @akshit.udacity 
 #60daysofudacity
+<hr />
+
+Day 57:
+24/08/19 - 12:40am
+:heavy_check_mark:  revised fixing Additive Secret Sharing on Securing federated learning
+:heavy_check_mark:  revised formal definition of Differential Privacy
+:heavy_check_mark:  for last two days maintained my strike on slack, readed every message
+Sending encouragement to my great buddies:
+@Shahana @Vigneshwari @risper bevalyn @Mahedi @Labiba @Biswajit Banerjee @Joy Poddar @Oudarjya Sen Sarma  @Debankur @Shudipto Trafder @Shudipto Trafder   @Frida @Abhishek Lalwani @LauraT @Sourav@Akshay Rajmohan @Sankalp Dayal @Aisha Javed@sourav kumar @Sourav @Ishan Arora @Nirupama Singh @Nirupama Singh  @Khush @Aisha Khatun @iso.
+@Palak.Udacity @akshit.udacity
+#60daysofudacity
+<hr />
+
+Day 58:
+25/08/19 - 12:12am
+:heavy_check_mark:  revised building an encrypted database using Encrypted Deep Learning
+:heavy_check_mark:  watched deployment of PyTorch
+:heavy_check_mark:  watched an interesting video by 3blue1brown on Backpropagation : https://www.youtube.com/watch?v=tIeHLnjs5U8
+Sending encouragement to my great buddies:
+@Shahana @Vigneshwari @risper bevalyn @Mahedi@Labiba @Biswajit Banerjee @Joy Poddar @Oudarjya Sen Sarma  @Debankur @Shudipto Trafder @Shudipto Trafder   @Frida @Abhishek Lalwani @LauraT@Sourav@Akshay Rajmohan @Sankalp Dayal @Aisha Javed@sourav kumar @Sourav @Ishan Arora @Nirupama Singh @Nirupama Singh  @Khush @Aisha Khatun @iso. @Seeratpal K. Jaura @Aisha Javed @Khush
+@Palak.Udacity @akshit.udacity
+#60daysofudacity
+<hr />
+
+Day 59:
+25/08/19 - 11:44pm
+:heavy_check_mark:  continued revising encrypted federated learning
+:heavy_check_mark:  revised and solved many problems on data structures and algorithms
+Sending encouragement to my great buddies:
+@Shahana @Vigneshwari @risper bevalyn@Mahedi@Labiba @Biswajit Banerjee @Joy Poddar@Oudarjya Sen Sarma  @Debankur @Shudipto Trafder@Shudipto Trafder   @Frida @Abhishek Lalwani@LauraT@Sourav@Akshay Rajmohan @Sankalp Dayal@Aisha Javed@sourav kumar @Sourav @Ishan Arora@Nirupama Singh @Nirupama Singh  @Khush @Aisha Khatun @iso. @Seeratpal K. Jaura @Aisha Javed @Khush @Anju Mercian @Abhishek Tandon
+@Palak.Udacity @akshit.udacity
+#60daysofudacity
+<hr />
+
+Day 60:
+26/08/19 - 09:52pm
+Yay!! Finally I completed the #60daysofudacity challenge:60daysofudacitybadge:
+:heavy_check_mark: revised Recurrent Neural Networks
+:heavy_check_mark: continued my work on data structures and algorithms in python :python:
+:heavy_check_mark: worked on a project on hackerearth on Garden Nerd : Flower Recognition Data Science Competition
+Big shoutouts to the amazing people here:
+@Biswajit Banerjee @Vigneshwari @Labiba @Frida @risper bevalyn @Shudipto Trafder @Oudarjya Sen Sarma @Khush @Mahedi @Abhishek Lalwani @Shahana @Joy Poddar @Joanna @Arka @Arkadip Bhattacharya @Temitope Oladokun @Archit @Munira Omar @Mohona @Anju Mercian @Sourav @sourav kumar @Soumya Nasipuri @akshu18 @Akshay Rajmohan @Ronit @Rohit @crazylazylife @Ishan Arora @Ellyana Linden @Aisha Javed @Sankalp Dayal @Shashank Jain @Aman Sharma @Abhishek Mondal @Abhishek Tandon @LauraT @Seeratpal K. Jaura @iso. @Anna Scott @Debankur @Dammy @Deepak @Yemi @Daniela Beck @Ricardo Pretelt @Rana Tallal @Hadjer Benmeziane @Arunn @Ingus Terbets @Ivy @Karthik K @Helena Barmer @Raunak Sarada @Berenice @Madison Estabrook (DL, FE, USA) @Stark @Ankur Bhatia @Bearbear
+@Palak.Udacity @akshit.udacity
+#60daysofudacity
+<hr />
